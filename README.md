@@ -31,7 +31,7 @@ Chat with your OpenClaw agent directly from Raycast.
 
 ## Support
 
-For issues and feature requests, please visit the [GitHub repository](https://github.com/seokyoungjeong/openclaw-raycast).
+For issues and feature requests, please visit the [GitHub repository](https://github.com/seyoungjeong/openclaw-raycast).
 
 ## License
 
